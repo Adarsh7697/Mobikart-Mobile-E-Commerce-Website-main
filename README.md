@@ -1,7 +1,7 @@
 # Mobikart-Mobile-E-Commerce-Website
-MySQL, Angular, Express.js and Node.js based Mobile E-Commerce Store
+MySQL, Express.js and Node.js based Mobile E-Commerce Store
 
-**Frontend -> Angular**
+**Frontend**
 
 **Backend -> Node.js**
 
@@ -47,10 +47,9 @@ It is an E-Commerce Website which aims to sell the mobile phones and have almost
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-You'll need Angular 2+ (https://angular.io/guide/setup-local) [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com))  [Express.js] (https://www.npmjs.com/package/express) installed on your computer
 
 ```
-angular @v7.0 or higher
+
 node @v10.16.0 or higher
 npm @6.9.0 or higher
 express @4.17.1 or higher
@@ -110,10 +109,9 @@ $ git clone https://github.com/ankit1222000/Mobikart-Mobile-E-Commerce-Website.g
 ### Starting & Using FrontEnd
 
 ```
-# Install  Angular dependencies
+
 $ npm install
 
-# Start Angular Development Server
 $ ng serve
 (this will start the project on http://localhost:4200/)
 
