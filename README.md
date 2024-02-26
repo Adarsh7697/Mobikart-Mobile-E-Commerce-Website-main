@@ -101,10 +101,6 @@ $ source Product_Review.sql
 
 From your command line, clone and run Mobikart E-Commerce Website:
 
-```
-# Clone this repository
-$ git clone https://github.com/ankit1222000/Mobikart-Mobile-E-Commerce-Website.git
-```
 
 ### Starting & Using FrontEnd
 
